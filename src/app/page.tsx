@@ -6,6 +6,7 @@ import { Book } from "../types";
 import { BookFilters } from "../features/BooksFilter";
 import { BookRanking } from "../features/BookRanking";
 
+export const runtime = "edge";
 
 export default function Home() {
   const [selectedYear, setSelectedYear] = useState("全て");
