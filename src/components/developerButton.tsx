@@ -33,7 +33,7 @@ const DeveloperButton = () => {
           <div className="mb-3">
             <p className="text-sm text-gray-800 font-medium">制作者:</p>
             <a
-            href="https://x.com/ryo_krkrkr"
+            href="https://www.notion.so/Profile-288ececde95d808aa8c6dc666d2119a1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-sm text-blue-600 hover:underline"

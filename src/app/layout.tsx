@@ -35,7 +35,7 @@ export default function RootLayout({
         <meta name="description" content="大学入試国語に出題された出典本をランキング形式で紹介。年度（2015〜2025）・国立/私立・現代文/古文/漢文で絞り込め、Amazonリンク付きで購入も可能。受験対策・読書リスト・学び直しに最適です。" />
         <meta name="keywords" content="大学入試, 国語, 出典, 本, ランキング, 過去問, 受験, 読書, 教養" />
         <meta name="author" content="Ryotaro" />
-        <link rel="canonical" href="https://%%BASE_URL%%/" />
+        <link rel="canonical" href="https://reference-ranking.pages.dev/" />
 
         <meta name="robots" content="index,follow" />
 
@@ -43,7 +43,7 @@ export default function RootLayout({
         <meta property="og:site_name" content="大学入試国語 出典本ランキング" />
         <meta property="og:title" content="大学入試国語 出典本ランキング｜過去問で出た本を年度・科目別に検索" />
         <meta property="og:description" content="大学入試国語に出題された出典本をランキング形式で紹介。年度・国立/私立・現代文/古文/漢文で絞り込み可能。Amazonリンク付き。" />
-        <meta property="og:url" content="https://%%BASE_URL%%/" />
+        <meta property="og:url" content="https://reference-ranking.pages.dev/" />
         <meta property="og:image" content="https://%%BASE_URL%%/%%OG_IMAGE%%" />
         <meta property="og:image:alt" content="大学入試国語 出典本ランキング — サイトのサムネイル" />
 
