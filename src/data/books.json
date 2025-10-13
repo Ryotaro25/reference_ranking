@@ -532,6 +532,12 @@
         "type": "private",
         "faculty": "文化構想学部",
         "examYear": 2023
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2021
       }
     ]
   },
@@ -3328,6 +3334,18 @@
         "type": "private",
         "faculty": "文系",
         "examYear": 2024
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2020
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2016
       }
     ]
   },
@@ -4218,6 +4236,18 @@
         "type": "national",
         "faculty": "文系",
         "examYear": 2018
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2023
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2021
       }
     ]
   },
@@ -4556,6 +4586,12 @@
         "type": "national",
         "faculty": "文系(文学部)",
         "examYear": 2018
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2016
       }
     ]
   },
@@ -5186,6 +5222,12 @@
         "type": "national",
         "faculty": "文系",
         "examYear": 2021
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2015
       }
     ]
   },
@@ -6239,6 +6281,12 @@
         "type": "private",
         "faculty": "法学部",
         "examYear": 2023
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2022
       }
     ]
   },
@@ -6881,6 +6929,12 @@
         "type": "private",
         "faculty": "文系",
         "examYear": 2018
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2025
       }
     ]
   },
@@ -7457,6 +7511,12 @@
         "type": "private",
         "faculty": "文系",
         "examYear": 2016
+      },
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2024
       }
     ]
   },
@@ -7505,6 +7565,550 @@
         "type": "private",
         "faculty": "文系",
         "examYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "title": "日本の隠遁者たち" ,
+    "author": "饗庭孝男",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/41dtBfNfzIL.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9A%A0%E9%81%81%E8%80%85%E3%81%9F%E3%81%A1-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E9%A5%97%E5%BA%AD-%E5%AD%9D%E7%94%B7/dp/4480058311?&linkCode=ll1&tag=ryotaro25250d-22&linkId=09ecabcde61b96b7c8a8f4d9d38cf903&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2025
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "title": "文学のエコロジー" ,
+    "author": "山本貴光",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/81I5lbujH3L._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%96%87%E5%AD%A6%E3%81%AE%E3%82%A8%E3%82%B3%E3%83%AD%E3%82%B8%E3%83%BC-%E5%B1%B1%E6%9C%AC-%E8%B2%B4%E5%85%89/dp/4065336457?&linkCode=ll1&tag=ryotaro25250d-22&linkId=7f069b02df5a03fc6ca1c0dd18e782fb&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2025
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "title": "文正草子" ,
+    "author": "作者不詳",
+    "subject": "classical-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2025
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "title": "「鬱屈」の時代をよむ" ,
+    "author": "今野真二",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/811AXwm8zLL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E3%80%8C%E9%AC%B1%E5%B1%88%E3%80%8D%E3%81%AE%E6%99%82%E4%BB%A3%E3%82%92%E3%82%88%E3%82%80-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%B0%E6%9B%B8-%E4%BB%8A%E9%87%8E-%E7%9C%9F%E4%BA%8C/dp/4087212475?&linkCode=ll1&tag=ryotaro25250d-22&linkId=e4baf8b1c9ea416eadf2c97065c7c1a4&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2024
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "title": "日本アニメの革新 歴史の転換点となった変化の構造分析" ,
+    "author": "氷川竜介",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/712LliQeUcL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E9%9D%A9%E6%96%B0-%E6%AD%B4%E5%8F%B2%E3%81%AE%E8%BB%A2%E6%8F%9B%E7%82%B9%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E5%A4%89%E5%8C%96%E3%81%AE%E6%A7%8B%E9%80%A0%E5%88%86%E6%9E%90-%E8%A7%92%E5%B7%9D%E6%96%B0%E6%9B%B8-%E6%B0%B7%E5%B7%9D-%E7%AB%9C%E4%BB%8B/dp/4040822048?&linkCode=ll1&tag=ryotaro25250d-22&linkId=d3038cdf15c66732ce3000462015b759&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2024
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "title": "樵談" ,
+    "author": "一条兼良",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2024
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "title": "なぜ批評は嫌われるのか" ,
+    "author": "速水健朗",
+    "subject": "modern-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2023
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "title": "リスクコミュニケーション: 多様化する危機を乗り越える" ,
+    "author": "福田充",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/61IkUEEJo2L._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E5%A4%9A%E6%A7%98%E5%8C%96%E3%81%99%E3%82%8B%E5%8D%B1%E6%A9%9F%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%82%8B-996-%E5%B9%B3%E5%87%A1%E7%A4%BE%E6%96%B0%E6%9B%B8/dp/4582859968?&linkCode=ll1&tag=ryotaro25250d-22&linkId=2458fbc0b7eed25c42d200fccb913150&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2023
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "title": "苕渓漁隠叢話" ,
+    "author": "胡仔",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2023
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "title": "保守主義とは何か - 反フランス革命から現代日本まで" ,
+    "author": "宇野重規",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pNDpl2jpL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E4%BF%9D%E5%AE%88%E4%B8%BB%E7%BE%A9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B-%E5%8F%8D%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%9D%A9%E5%91%BD%E3%81%8B%E3%82%89%E7%8F%BE%E4%BB%A3%E6%97%A5%E6%9C%AC%E3%81%BE%E3%81%A7-%E4%B8%AD%E5%85%AC%E6%96%B0%E6%9B%B8-%E5%AE%87%E9%87%8E-%E9%87%8D%E8%A6%8F/dp/4121023781?&linkCode=ll1&tag=ryotaro25250d-22&linkId=533179646ff146253e0843f5a0bebfc8&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2021
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "title": "神西清の散文問題" ,
+    "author": "小林実",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sUxSnqtEL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E7%A5%9E%E8%A5%BF%E6%B8%85%E3%81%AE%E6%95%A3%E6%96%87%E5%95%8F%E9%A1%8C-%E5%B0%8F%E6%9E%97%E5%AE%9F/dp/4861106672?&linkCode=ll1&tag=ryotaro25250d-22&linkId=4c6c9699f7a97a41775dc7c6d7b0a08e&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2021
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "title": "ひとはなぜ「認められたい」のか ――承認不安を生きる知恵" ,
+    "author": "山竹伸二",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/615rciEZObL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E3%81%B2%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%9C%E3%80%8C%E8%AA%8D%E3%82%81%E3%82%89%E3%82%8C%E3%81%9F%E3%81%84%E3%80%8D%E3%81%AE%E3%81%8B-%E2%80%95%E2%80%95%E6%89%BF%E8%AA%8D%E4%B8%8D%E5%AE%89%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B%E7%9F%A5%E6%81%B5-%E3%81%A1%E3%81%8F%E3%81%BE%E6%96%B0%E6%9B%B8-%E5%B1%B1%E7%AB%B9-%E4%BC%B8%E4%BA%8C/dp/4480073698?&linkCode=ll1&tag=ryotaro25250d-22&linkId=c6c2ae2098a2146b7032956b47409282&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2022
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "title": "人間にとって教養とはなにか" ,
+    "author": "橋爪大三郎",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/81zq31yMinL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E4%BA%BA%E9%96%93%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E6%95%99%E9%A4%8A%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B-SB%E6%96%B0%E6%9B%B8-%E6%A9%8B%E7%88%AA-%E5%A4%A7%E4%B8%89%E9%83%8E/dp/4815607508?source=dsa&hvcampaign=books&gad_source=1&linkCode=ll1&tag=ryotaro25250d-22&linkId=d07e5a23e8ee9951adf1c07b2ccf8b97&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2022
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "title": "新序" ,
+    "author": "劉向",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2022
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "title": "水の匂いがするようだ 井伏鱒二のほうへ" ,
+    "author": "野崎歓",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pDgC4eqhL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%B0%B4%E3%81%AE%E5%8C%82%E3%81%84%E3%81%8C%E3%81%99%E3%82%8B%E3%82%88%E3%81%86%E3%81%A0-%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C%E3%81%AE%E3%81%BB%E3%81%86%E3%81%B8-%E5%8D%98%E8%A1%8C%E6%9C%AC-%E9%87%8E%E5%B4%8E-%E6%AD%93/dp/4087711498?&linkCode=ll1&tag=ryotaro25250d-22&linkId=0be5df3858ef39b9dbd5d36079df9956&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2020
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "title": "自由と秩序: 競争社会の二つの顔" ,
+    "author": "猪木武徳",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/41pq4Tvyg4L.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E8%87%AA%E7%94%B1%E3%81%A8%E7%A7%A9%E5%BA%8F%E2%80%95%E7%AB%B6%E4%BA%89%E7%A4%BE%E4%BC%9A%E3%81%AE%E4%BA%8C%E3%81%A4%E3%81%AE%E9%A1%94-%E4%B8%AD%E5%85%AC%E5%8F%A2%E6%9B%B8-%E7%8C%AA%E6%9C%A8-%E6%AD%A6%E5%BE%B3/dp/4120031683?&linkCode=ll1&tag=ryotaro25250d-22&linkId=b0e72163b50303ccc569a9b8c2ba632e&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2020
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "title": "法苑珠林" ,
+    "author": "道世",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2020
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "title": "<面白さ>の研究 世界観エンタメはなぜブームを生むのか" ,
+    "author": "都留泰作",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/612avUxjcWL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E9%9D%A2%E7%99%BD%E3%81%95-%E3%81%AE%E7%A0%94%E7%A9%B6-%E4%B8%96%E7%95%8C%E8%A6%B3%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1%E3%81%AF%E3%81%AA%E3%81%9C%E3%83%96%E3%83%BC%E3%83%A0%E3%82%92%E7%94%9F%E3%82%80%E3%81%AE%E3%81%8B-%E8%A7%92%E5%B7%9D%E6%96%B0%E6%9B%B8/dp/4041027535?adgrpid=50831475542&dib=eyJ2IjoiMSJ9.64P8-hKH2-jopcwVEvEognl1L-doVPd9qmNfOs72Kck.w4zEwzJwINWooq8nGp2SEtZFWUmb_-1EbJXjkEk2M0s&dib_tag=se&hvadid=679054360217&hvdev=c&hvexpln=0&hvlocphy=1009540&hvnetw=g&hvocijid=14364114845812332450--&hvqmt=e&hvrand=14364114845812332450&hvtargid=kwd-334094114325&hydadcr=16036_13711623&jp-ad-ap=0&keywords=%E9%9D%A2%E7%99%BD%E3%81%95%E3%81%AE%E7%A0%94%E7%A9%B6&mcid=014d2b05a4a2335e84ad878f10f9f6d8&qid=1760340023&sr=8-1&linkCode=ll1&tag=ryotaro25250d-22&linkId=a71b978ad066ebb0faec8b02c4ae237b&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2019
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "title": "石牟礼道子と「流民」" ,
+    "author": "水溜真由美",
+    "subject": "modern-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2019
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "title": "白露" ,
+    "author": "作者不詳",
+    "subject": "classical-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2019
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "title": "捜神後記" ,
+    "author": "陶潜",
+    "subject": "chinese",
+    "imageUrl": "https://m.media-amazon.com/images/I/71HeG3qVuFL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E4%B8%AD%E5%9B%BD%E6%80%AA%E5%A5%87%E5%B0%8F%E8%AA%AC%E9%9B%86-%E6%8D%9C%E7%A5%9E%E5%BE%8C%E8%A8%98%EF%BC%88%E5%85%AD%E6%9C%9D%EF%BC%89-%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%ABPOD-%E5%B2%A1%E6%9C%AC-%E7%B6%BA%E5%A0%82/dp/4777187993?&linkCode=ll1&tag=ryotaro25250d-22&linkId=a67554a0a4f69487923cb1eca70b5ad7&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2019
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "title": "シリーズ<本と日本史> 3 中世の声と文字 親鸞の手紙と『平家物語』" ,
+    "author": "大隅和雄",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/51eA8oc+UdL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E6%9C%AC%E3%81%A8%E6%97%A5%E6%9C%AC%E5%8F%B2-%E4%B8%AD%E4%B8%96%E3%81%AE%E5%A3%B0%E3%81%A8%E6%96%87%E5%AD%97-%E8%A6%AA%E9%B8%9E%E3%81%AE%E6%89%8B%E7%B4%99%E3%81%A8%E3%80%8E%E5%B9%B3%E5%AE%B6%E7%89%A9%E8%AA%9E%E3%80%8F-%E9%9B%86%E8%8B%B1%E7%A4%BE%E6%96%B0%E6%9B%B8/dp/4087208648?&linkCode=ll1&tag=ryotaro25250d-22&linkId=31cd6a9aac70407df9028364a9efed9e&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "title": "私たちの右手の行方(ユリイカ2016年11月号 特集＝こうの史代)" ,
+    "author": "土居伸彰",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/814rzGBfl4L._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E3%83%A6%E3%83%AA%E3%82%A4%E3%82%AB-2016%E5%B9%B411%E6%9C%88%E5%8F%B7-%E3%81%93%E3%81%86%E3%81%AE%E5%8F%B2%E4%BB%A3-%E2%80%95%E3%80%8E%E5%A4%95%E5%87%AA%E3%81%AE%E8%A1%97-%E6%A1%9C%E3%81%AE%E5%9B%BD%E3%80%8F%E3%80%8E%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E7%89%87%E9%9A%85%E3%81%AB%E3%80%8F%E3%80%8E%E3%81%BC%E3%81%8A%E3%82%8B%E3%81%BA%E3%82%93%E5%8F%A4%E4%BA%8B%E8%A8%98%E3%80%8F%E3%81%8B%E3%82%89%E3%80%8E%E6%97%A5%E3%81%AE%E9%B3%A5%E3%80%8F%E3%81%B8/dp/4791703170?&linkCode=ll1&tag=ryotaro25250d-22&linkId=c259dead3796747152e789ce00464ed7&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "title": "今鏡" ,
+    "author": "作者不詳",
+    "subject": "classical-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/51iHsi92VZL.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E5%A3%B0%E3%81%A7%E8%AA%AD%E3%82%80%E5%A4%A7%E9%8F%A1%E3%83%BB%E4%BB%8A%E9%8F%A1%E3%83%BB%E5%A2%97%E9%8F%A1-%E9%87%91%E5%AD%90-%E6%AD%A6%E9%9B%84/dp/4312700095?&linkCode=ll1&tag=ryotaro25250d-22&linkId=abfd3cd579639ead17aa74e7df1fc3ea&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "title": "愛日楼文詩" ,
+    "author": "一斎",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2018
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "title": "学びとは何か――〈探究人〉になるために" ,
+    "author": "今井むつみ",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/610jQsYoJgL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E5%AD%A6%E3%81%B3%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%95%E2%80%95%E3%80%88%E6%8E%A2%E7%A9%B6%E4%BA%BA%E3%80%89%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E4%BB%8A%E4%BA%95-%E3%82%80%E3%81%A4%E3%81%BF/dp/4004315964?&linkCode=ll1&tag=ryotaro25250d-22&linkId=038cb25f74bbadb5591fd43aae4d3509&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "title": "数学する身体" ,
+    "author": "森田真生",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/7141uHgO3pL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%95%B0%E5%AD%A6%E3%81%99%E3%82%8B%E8%BA%AB%E4%BD%93-%E6%A3%AE%E7%94%B0-%E7%9C%9F%E7%94%9F/dp/4103396512?&linkCode=ll1&tag=ryotaro25250d-22&linkId=d910e7806371d17a64a982b89caf1b49&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "title": "今昔物語集" ,
+    "author": "作者不詳",
+    "subject": "classical-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/81igstdbmIL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86-%E6%9C%AC%E6%9C%9D%E4%B8%96%E4%BF%97%E7%AF%87-%E4%B8%8A-%E5%85%A8%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3-%E8%AC%9B%E8%AB%87%E7%A4%BE%E5%AD%A6%E8%A1%93%E6%96%87%E5%BA%AB/dp/4062923726?dib=eyJ2IjoiMSJ9.UK0cHFqVK_GZ2lbp_EYs6CsJspLs3YzonLjU2vG3zHz4sE_lFes12HJvjDYzxbxFZX-iwqmZVvgtAsZBk26ujkOmhgUi0AAciCPJ4a2IeG3cGGxSODBYd1cvgpcl_2wDtILcpyay0O0etL6cl5zdHkxD6leMljgfpz7yAyDPwV1d5WbbB_P_m1nWmKBOF9i6WZGxly2NpSQrIS6heexcAUzzzA54XY8l0y6KRedzg9FhXZSMsgpGMbI_1i1ZqTQJVzNctlfNZqESa9bjdY5EjTll7pkyUaW4sRHXHfdNZsQ.YGBCluPuw0GfLI86pdat_DJaDe6j6VcWlRmYegLXwVg&dib_tag=se&keywords=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E7%8F%BE%E4%BB%A3%E8%AA%9E%E8%A8%B3&qid=1760342001&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=ryotaro25250d-22&linkId=498e868aaaae3b72fcec8ca02ef159ea&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "title": "書影" ,
+    "author": "作者不詳",
+    "subject": "chinese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2017
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "title": "重力との対話――記憶の海辺から山海塾の舞踏へ" ,
+    "author": "天児牛大",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/51kX-6tISZL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E9%87%8D%E5%8A%9B%E3%81%A8%E3%81%AE%E5%AF%BE%E8%A9%B1%E2%80%95%E2%80%95%E8%A8%98%E6%86%B6%E3%81%AE%E6%B5%B7%E8%BE%BA%E3%81%8B%E3%82%89%E5%B1%B1%E6%B5%B7%E5%A1%BE%E3%81%AE%E8%88%9E%E8%B8%8F%E3%81%B8-%E5%A4%A9%E5%85%90-%E7%89%9B%E5%A4%A7/dp/4000610309?&linkCode=ll1&tag=ryotaro25250d-22&linkId=2998d044c3155f6241844d831c9fe013&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2016
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "title": "「眼を引き伸ばす」と内視鏡に(群像 2015年03月号)" ,
+    "author": "小佐野重利",
+    "subject": "modern-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2016
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "title": "短詩形文学に学ぶ日本語の未来",
+    "author": "加賀野井秀一",
+    "subject": "modern-japanese",
+    "imageUrl": "",
+    "amazonUrl": "",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2015
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "title": "死に臨む態度" ,
+    "author": "上田三四二",
+    "subject": "modern-japanese",
+    "imageUrl": "https://m.media-amazon.com/images/I/61NGvtSpbzL._SY522_.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E6%AD%BB%E3%81%AB%E8%87%A8%E3%82%80%E6%85%8B%E5%BA%A6-%E4%B8%8A%E7%94%B0-%E4%B8%89%E5%9B%9B%E4%BA%8C/dp/4393441133?&linkCode=ll1&tag=ryotaro25250d-22&linkId=6e8bd90637680aea0826a751a5c2bd58&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2015
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "title": "続子不語" ,
+    "author": "袁枚",
+    "subject": "chinese",
+    "imageUrl": "https://m.media-amazon.com/images/I/41iw5cCBW4L.jpg",
+    "amazonUrl": "https://www.amazon.co.jp/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E5%B0%8F%E8%AA%AC%E9%81%B8-11-%E9%96%B2%E5%BE%AE%E8%8D%89%E5%A0%82%E7%AD%86%E8%A8%98%E3%83%BB%E5%AD%90%E4%B8%8D%E8%AA%9E%E3%83%BB%E7%B6%9A%E5%AD%90%E4%B8%8D%E8%AA%9E-%E7%AB%B9%E7%94%B0-%E6%99%83/dp/4625664101?&linkCode=ll1&tag=ryotaro25250d-22&linkId=01a0a33bc4ecfa16d116f48d28d9d005&language=ja_JP&ref_=as_li_ss_tl",
+    "universities": [
+      {
+        "name": "立命館大学",
+        "type": "private",
+        "faculty": "文系",
+        "examYear": 2015
       }
     ]
   }
